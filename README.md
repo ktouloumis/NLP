@@ -1,2 +1,3 @@
 # NLP
-Code for the project of IR 2018
+Code for the project of the course Information Retrieval 2018, on natural language processing.
+Sentiment analysis on movie reviews.
